@@ -1,0 +1,25 @@
+.btn-whatsapp{
+    color: #fff;
+    background-color: #25d366;
+}    
+.btn-twitter{
+    color: #fff;
+    background-color: #00acee;
+    border-color: #00acee;
+}
+
+.btn-facebook{
+    color:#fff;
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
+
+.btn-googleplus{
+    color: #fff;
+    background-color: #db4a39;
+    border-color: #db4a39;
+}
+
+.margin-top{
+    margin-top: 5px;
+}

@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/fondo7.jpg);
+    background-size: cover;
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+aside{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+aside p{
+    background-color: rgba(255,255,255,0.8);
+    border: 2px solid gray;
+    border-radius: 100px 100px;
+    padding: 5px;
+}
+
+aside p:hover{
+    background-color: rgba(255,255,255);
+    border: 2px solid gray;
+    border-radius: 100px 100px;
+    padding: 5px;
+}
+/* 
+    Created on : 13 jul. 2020, 18:40:15
+    Author     : Kevin
+*/
+
